@@ -14,6 +14,10 @@ Neural-inspired & neuromorphic computing http://www.sciencedirect.com/science/ar
 ### Papers
 Google TPU1 : https://arxiv.org/abs/1704.04760
 
+### Implementation
+CNN Hardware Accelerator. http://cs231n.stanford.edu/reports/2017/pdfs/116.pdf
+https://github.com/kkiningh/cs231n-project
+
 ### Talks
 Graphcore : https://www.youtube.com/watch?v=Gh-Tff7DdzU
 
