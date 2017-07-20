@@ -37,3 +37,4 @@ https://www.tensorflow.org/performance/quantization
 ### Low Precision Math:
 General Matrix Multiplication in Low Precision https://github.com/google/gemmlowp
 
+Arm's Math Library http://arm-software.github.io/CMSIS_5/DSP/html/index.html
