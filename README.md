@@ -27,3 +27,10 @@ Graphcore : https://www.youtube.com/watch?v=Gh-Tff7DdzU
 ## DL on Embedded Devices
 
 Pete Warden's blog https://petewarden.com/2017/06/22/what-ive-learned-about-neural-network-quantization/
+
+### Quantization:
+https://www.tensorflow.org/performance/quantization
+
+### Low Precision Math:
+General Matrix Multiplication in Low Precision https://github.com/google/gemmlowp
+
