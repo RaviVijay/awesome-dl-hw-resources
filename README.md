@@ -24,3 +24,6 @@ Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 ### Talks
 Graphcore : https://www.youtube.com/watch?v=Gh-Tff7DdzU
 
+## DL on Embedded Devices
+
+Pete Warden's blog https://petewarden.com/2017/06/22/what-ive-learned-about-neural-network-quantization/
