@@ -9,6 +9,7 @@ https://amundtveit.com/2017/07/12/deep-learning-for-embedded-systems/
 ### Surveys:
 
 Efficient Processing of Deep Neural Networks: A Tutorial and Survey (https://arxiv.org/abs/1703.09039)
+
 Neural-inspired & neuromorphic computing http://www.sciencedirect.com/science/article/pii/S2212683X16300561
 ### Papers
 Google TPU1 : https://arxiv.org/abs/1704.04760
