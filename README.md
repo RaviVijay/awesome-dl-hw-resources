@@ -28,6 +28,9 @@ Graphcore : https://www.youtube.com/watch?v=Gh-Tff7DdzU
 
 Pete Warden's blog https://petewarden.com/2017/06/22/what-ive-learned-about-neural-network-quantization/
 
+## Stick it
+Movidius NN Compute Stick http://uk.rs-online.com/web/p/processor-microcontroller-development-kits/1393655/
+
 ### Quantization:
 https://www.tensorflow.org/performance/quantization
 
