@@ -26,6 +26,8 @@ Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 
 ### Talks
 Graphcore : https://www.youtube.com/watch?v=Gh-Tff7DdzU
+https://www.youtube.com/watch?v=tyW9x5ROl2E
+
 
 ## DL on Embedded Devices
 
