@@ -48,3 +48,10 @@ https://www.tensorflow.org/performance/quantization
 General Matrix Multiplication in Low Precision https://github.com/google/gemmlowp
 
 Arm's Math Library http://arm-software.github.io/CMSIS_5/DSP/html/index.html
+
+## Self Driving Car Compute
+Talk about Compute requirements of Google's(Waymo) self driving cars by Daniel Rosenband
+https://www.youtube.com/watch?v=V_KLfSClcHg
+
+Voyage's CEO Oliver Cameron's write-up on compute requirements:
+https://news.voyage.auto/under-the-hood-of-a-self-driving-car-78e8bbce62a6
