@@ -13,6 +13,7 @@ Efficient Processing of Deep Neural Networks: A Tutorial and Survey (https://arx
 Neural-inspired & neuromorphic computing http://www.sciencedirect.com/science/article/pii/S2212683X16300561
 ### Papers
 Google TPU1 : https://arxiv.org/abs/1704.04760
+
 Optimizing for Fisher's bound by bringing in HPC concepts on a chip  https://arxiv.org/pdf/1705.05983.pdf
 
 ### Implementation
