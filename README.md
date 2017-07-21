@@ -1,6 +1,10 @@
 # awesome-dl-hw-resources
 A curated list of awesome hardware/chip design resources for deep learning
 
+## Step 1: Get Inspired
+
+Simon Knowles Talk about developing Intelligent Machines https://www.youtube.com/watch?v=tyW9x5ROl2E
+
 ## Existing lists:
 https://amundtveit.com/2017/07/12/deep-learning-for-embedded-systems/
 
@@ -30,9 +34,6 @@ Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 ### Talks
 Graphcore : 
 1. https://www.youtube.com/watch?v=Gh-Tff7DdzU
-
-2. https://www.youtube.com/watch?v=tyW9x5ROl2E
-
 
 ## DL on Embedded Devices
 
