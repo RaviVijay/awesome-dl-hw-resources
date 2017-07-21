@@ -38,6 +38,7 @@ Graphcore :
 ## DL on Embedded Devices
 
 Pete Warden's blog https://petewarden.com/2017/06/22/what-ive-learned-about-neural-network-quantization/
+Discussion about B/W, Compute restrictions on Embedded Devices https://www.youtube.com/watch?v=FATXK4yyaD0
 
 ## Stick it
 Movidius NN Compute Stick http://uk.rs-online.com/web/p/processor-microcontroller-development-kits/1393655/
