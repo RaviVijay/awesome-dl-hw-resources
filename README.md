@@ -28,8 +28,10 @@ https://github.com/kkiningh/cs231n-project
 Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 
 ### Talks
-Graphcore : https://www.youtube.com/watch?v=Gh-Tff7DdzU
-https://www.youtube.com/watch?v=tyW9x5ROl2E
+Graphcore : 
+1. https://www.youtube.com/watch?v=Gh-Tff7DdzU
+
+2. https://www.youtube.com/watch?v=tyW9x5ROl2E
 
 
 ## DL on Embedded Devices
