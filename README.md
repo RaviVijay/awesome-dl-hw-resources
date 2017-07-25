@@ -51,7 +51,7 @@ General Matrix Multiplication in Low Precision https://github.com/google/gemmlow
 
 Arm's Math Library http://arm-software.github.io/CMSIS_5/DSP/html/index.html
 
-https://arxiv.org/abs/1511.04561
+8-bit compression https://arxiv.org/abs/1511.04561
 
 ## Self Driving Car Compute
 Talk about Compute requirements of Google's(Waymo) self driving cars by Daniel Rosenband
