@@ -35,6 +35,11 @@ Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 Graphcore : 
 1. https://www.youtube.com/watch?v=Gh-Tff7DdzU
 
+### Companies
+Wave Computing:
+1. https://www.nextplatform.com/2017/08/23/first-depth-view-wave-computings-dpu-architecture-systems/
+
+
 ## DL on Embedded Devices
 
 Pete Warden's blog https://petewarden.com/2017/06/22/what-ive-learned-about-neural-network-quantization/
