@@ -19,6 +19,9 @@ From Vivienne Sze's Lab https://energyestimation.mit.edu/
 Efficient Processing of Deep Neural Networks: A Tutorial and Survey (https://arxiv.org/abs/1703.09039)
 
 Neural-inspired & neuromorphic computing http://www.sciencedirect.com/science/article/pii/S2212683X16300561
+
+16 Views of Hot Chips ‘17 http://www.eetimes.com/document.asp?doc_id=1332192
+
 ### Papers
 Google TPU1 : https://arxiv.org/abs/1704.04760
 
@@ -39,6 +42,16 @@ Graphcore :
 Wave Computing:
 1. https://www.nextplatform.com/2017/08/23/first-depth-view-wave-computings-dpu-architecture-systems/
 
+Microsoft:
+1. Brainwave Slides at https://www.microsoft.com/en-us/research/blog/microsoft-unveils-project-brainwave/?utm_source=t.co&utm_medium=referral
+
+ThinCI:
+1. Graph Processor http://www.eetimes.com/document.asp?doc_id=1332176
+2. QnA http://www.eetimes.com/document.asp?doc_id=1332159
+
+Baidu:
+1. XPU https://www.nextplatform.com/2017/08/22/first-look-baidus-custom-ai-analytics-processor/
+ 
 
 ## DL on Embedded Devices
 
