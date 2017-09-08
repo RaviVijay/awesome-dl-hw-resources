@@ -52,6 +52,8 @@ ThinCI:
 Baidu:
 1. XPU https://www.nextplatform.com/2017/08/22/first-look-baidus-custom-ai-analytics-processor/
  
+Huawei:
+1. NPU: http://newatlas.com/huawei-kirin-970-ai-chip/51186/
 
 ## DL on Embedded Devices
 
