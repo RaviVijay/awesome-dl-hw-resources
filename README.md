@@ -37,6 +37,8 @@ Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 ### Talks
 Graphcore : 
 1. https://www.youtube.com/watch?v=Gh-Tff7DdzU
+DeepPhi:
+1. Efficient Methods and Hardware for Deep Learning https://www.youtube.com/watch?v=eZdOkDtYMoo&index=69
 
 ### Companies
 Wave Computing:
@@ -44,6 +46,7 @@ Wave Computing:
 
 Microsoft:
 1. Brainwave Slides at https://www.microsoft.com/en-us/research/blog/microsoft-unveils-project-brainwave/?utm_source=t.co&utm_medium=referral
+2. At the edge https://www.youtube.com/watch?v=5ZDYWFXrhl8&t=176s
 
 ThinCI:
 1. Graph Processor http://www.eetimes.com/document.asp?doc_id=1332176
