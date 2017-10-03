@@ -8,6 +8,8 @@ Simon Knowles Talk about developing Intelligent Machines https://www.youtube.com
 ## Existing lists:
 https://amundtveit.com/2017/07/12/deep-learning-for-embedded-systems/
 
+https://github.com/Piyush3dB/awesome-deep-computation
+
 ## Energy Estimation
 
 From Vivienne Sze's Lab https://energyestimation.mit.edu/
