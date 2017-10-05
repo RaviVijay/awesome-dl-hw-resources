@@ -91,5 +91,8 @@ https://www.youtube.com/watch?v=V_KLfSClcHg
 Voyage's CEO Oliver Cameron's write-up on compute requirements:
 https://news.voyage.auto/under-the-hood-of-a-self-driving-car-78e8bbce62a6
 
+Udacity Carla's internals
+https://medium.com/udacity/how-the-udacity-self-driving-car-works-575365270a40
+
 ## DL Hardware Choice
 Which GPU for deep learning ? http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/
