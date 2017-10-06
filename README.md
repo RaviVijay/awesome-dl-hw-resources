@@ -41,8 +41,10 @@ Systolic Arrays https://www.youtube.com/watch?v=m_-zjdX7Lmw&t=2668s
 ### Talks
 Graphcore : 
 1. https://www.youtube.com/watch?v=Gh-Tff7DdzU
+
 DeepPhi:
 1. Efficient Methods and Hardware for Deep Learning https://www.youtube.com/watch?v=eZdOkDtYMoo&index=69
+
 Google TPU:
 1. Dave Patterson's Berkeley Talk https://www.youtube.com/watch?v=fhHAArxwzvQ
 
