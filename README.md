@@ -20,6 +20,8 @@ From Vivienne Sze's Lab https://energyestimation.mit.edu/
 
 Efficient Processing of Deep Neural Networks: A Tutorial and Survey (https://arxiv.org/abs/1703.09039)
 
+Dissertation: EFFICIENT METHODS AND HARDWARE FOR DEEP LEARNING  https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf
+
 Neural-inspired & neuromorphic computing http://www.sciencedirect.com/science/article/pii/S2212683X16300561
 
 16 Views of Hot Chips ‘17 http://www.eetimes.com/document.asp?doc_id=1332192
