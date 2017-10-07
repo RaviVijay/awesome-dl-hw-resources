@@ -14,7 +14,11 @@ https://github.com/Piyush3dB/awesome-deep-computation
 
 From Vivienne Sze's Lab https://energyestimation.mit.edu/
 
-## Chip Design
+## Machine Learning for chip design
+
+1. Self-Optimizing Memory Controllers: A Reinforcement Learning Approach https://people.inf.ethz.ch/omutlu/pub/rlmc_isca08.pdf
+
+## Chip Design for Machine Learning
 
 ### Surveys:
 
