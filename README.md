@@ -5,6 +5,8 @@ A curated list of awesome hardware/chip design resources for deep learning
 
 Simon Knowles Talk about developing Intelligent Machines https://www.youtube.com/watch?v=tyW9x5ROl2E
 
+Future of AI Hardware panel discussion https://vimeo.com/238818665
+
 ## Existing lists:
 https://amundtveit.com/2017/07/12/deep-learning-for-embedded-systems/
 
