@@ -55,6 +55,12 @@ Google TPU:
 1. Dave Patterson's Berkeley Talk https://www.youtube.com/watch?v=fhHAArxwzvQ
 
 ### Companies
+Graphcore:
+1. Preliminary IPU benchmarks https://www.graphcore.ai/posts/preliminary-ipu-benchmarks-providing-previously-unseen-performance-for-a-range-of-machine-learning-applications
+
+Nvidia:
+1. Volta https://devblogs.nvidia.com/parallelforall/inside-volta/
+
 Wave Computing:
 1. https://www.nextplatform.com/2017/08/23/first-depth-view-wave-computings-dpu-architecture-systems/
 
