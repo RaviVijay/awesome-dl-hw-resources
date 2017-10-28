@@ -54,6 +54,8 @@ DeepPhi:
 Google TPU:
 1. Dave Patterson's Berkeley Talk https://www.youtube.com/watch?v=fhHAArxwzvQ
 
+Nvidia:
+1. High-Performance Hardware for Machine Learning https://www.youtube.com/watch?v=6oofOSxwUvA
 ### Companies
 Graphcore:
 1. Preliminary IPU benchmarks https://www.graphcore.ai/posts/preliminary-ipu-benchmarks-providing-previously-unseen-performance-for-a-range-of-machine-learning-applications
