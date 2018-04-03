@@ -58,6 +58,7 @@ Google TPU:
 
 Nvidia:
 1. High-Performance Hardware for Machine Learning https://www.youtube.com/watch?v=6oofOSxwUvA
+2. Bill Dally's Talk https://www.youtube.com/watch?v=h3QKvUPg_AI
 
 ### Companies
 Graphcore:
