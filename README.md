@@ -39,6 +39,7 @@ Google TPU1 : https://arxiv.org/abs/1704.04760
 
 Optimizing for Fisher's bound by bringing in HPC concepts on a chip  https://arxiv.org/pdf/1705.05983.pdf
 
+An Architecture to Accelerate Convolution in Deep Neural Networks https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8070363
 ### Implementation
 CNN Hardware Accelerator. http://cs231n.stanford.edu/reports/2017/pdfs/116.pdf
 https://github.com/kkiningh/cs231n-project
